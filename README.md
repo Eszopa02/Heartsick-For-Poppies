@@ -1,2 +1,3 @@
 # Heartsick-For-Poppies
-Heartsick for Poppies is an interactive narrative game created in Twine.
+Heartsick for Poppies is an interactive narrative game created in Twine. The game tells the story of what it’s like to immigrate to a country at a young age, struggling with which country you identify with - the country you were born in or the country you were raised in. Trying to deny your nationality and then the realization of how much you miss your country. The game's purpose is to have players feel the frustration of what it’s like to feel like you’re divided in two and the longing to go back. I hope to achieve a sense of immersion with interactive elements and text to explain the story behind each scene. The game will be split up into different stages, addressing the different emotions at different ages of the narrator’s life. 
+
